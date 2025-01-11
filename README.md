@@ -1,10 +1,18 @@
+<div align=center>
 
 ![100 Python Projects 2](https://github.com/user-attachments/assets/ec34eab6-891b-401c-a3ea-25486b7eda8e)
 
-<div align=center>
-<h1>100 Python Projects</h1>
-<h3>A repository to learn Python by coding projects</h3>
+# 100 Python Projects
+### A repository to learn Python by coding projects
+
 </div>
+
+# How to Use
+
+This repository contains a collection of small coding challenges. In the future, the challenges will be organized by difficulty for easier navigation. Each project includes a README file with a detailed description of the challenge.
+
+The best way to use this repository is to try solving the challenges on your own before checking the provided solutions. However, feel free to use the code in any way that suits your needs!
+
 
 ## Getting Started
 
@@ -13,7 +21,7 @@ To get started with the projects, follow these steps:
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/100-python-projects.git
+git clone https://github.com/checorazza/100-python-projects.git
 cd 100-Python-Projects
 ```
 
