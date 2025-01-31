@@ -33,6 +33,13 @@ print(text.replace("world", "Python"))
 # Split the string into a list of substrings
 print(text.split())
 
+# Slice the string
+print(text[6:11])
+
+# Multiply the string
+print(text * 3)
+
 # Remove leading and trailing whitespaces
 text = "    Hello world!    "
 print(text.strip())
+
